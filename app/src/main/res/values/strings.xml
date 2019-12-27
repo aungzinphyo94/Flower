@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Flower</string>
+
+    <string name="txt_name">MY LOVE,</string>
+    <string name="txt_header">YOU LIKE A FLOWER</string>
+
+    <string name="txtChoice">Editor\'s Choice</string>
+
+    <string name="btn_text">Order now</string>
+
+    <string name="txtDescription">Material Design layouts are visually balanced. Most measurements align to an 8dp grid applied, which aligns both spacing and the overall layout.</string>
+</resources>
